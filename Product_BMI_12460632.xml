@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <Products>
+        <Product ID="BMI_12460632" UserTypeID="BaseMenuItem" ParentID="BMIHierarchy">
+            <Name>CHEESEBURGER</Name>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID1" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-GBR-Scunthorpe-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">10:1 REG MEAT</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00005141-10/1 BEEF PATTY</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00005141-10/1 BEEF PATTY</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_CaseSize">298</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">298</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.25</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">-0.53</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.21</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">50.96</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">51.03</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">51.03</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">51.03</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">OSI Group, LLC-GBR-Scunthorpe-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00005141</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">0</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">9.3</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.4</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">8.9</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.8</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1180</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">284</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">24.9</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.95</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">380</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">20.4</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">0.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">52.7</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.177</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">52.8</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">50.96</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="FB">FROZEN BEEF</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID10" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-GBR-Dunstable-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00001513-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001513-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_CaseSize">60</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">-0.11</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.10</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">2.69</Value>
+                    <Value AttributeID="a_mm_ExWorks">2.62</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">2.62</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">2.62</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">ARYZTA Bakeries Deutschland GmbH-GBR-Dunstable-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00001513</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">51.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">1.6</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">1.2</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">2.9</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1181</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">279</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">9.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">420</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">3.4</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">8.5</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">31.3</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="QB">BUNS</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID11" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">KETCHUP BIB</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">02679285-KETCHUP</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">02679285-KETCHUP</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_CaseSize">20</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">20</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ltr</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.31</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">15.72</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">15.41</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">15.41</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">15.41</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">02679285</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">24.7</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">1.7</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">476</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">112</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">1.6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">810</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">0.4</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">19.8</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">68.6</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.001</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ml</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">17.81</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">100.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">100.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">15.72</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="DR">DRY</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID12" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">MUSTARD-BULK</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00026077-MUSTARD POUCH</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00026077-MUSTARD POUCH</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_CaseSize">15</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">15</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">KG</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.31</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">13.26</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">12.95</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">12.95</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">12.95</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00026077</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">0</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">3.2</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">1</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.3</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">6.8</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">262</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">64</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">4.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">2.5</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">1000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">4.6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">82.7</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.001</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Gm</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">15.35</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1250.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1250.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">13.26</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="DR">DRY</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID13" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK KUTAS GIDA SAN DIS TIC A S-TUR-Izmir-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">PICKLES-DILL</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00063141-SLICED PICKLES</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00063141-SLICED PICKLES</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
+                    <Value AttributeID="a_mm_CaseSize">10.2</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">10.2</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">KG</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">8.61</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">8.61</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">8.61</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">8.61</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">MCCORMICK KUTAS GIDA SAN DIS TIC A S-TUR-Izmir-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00063141</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.001</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Gm</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">10.7</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">8.61</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="DR">DRY</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID2" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">DAWN MEATS GROUP UNLIMITED COMPANY-IRL-KILMACTHOMAS-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">10:1 REG MEAT</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00005300-10/1 PATTY/FR</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00005300-10/1 PATTY/FR</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAWN MEATS GROUP UNLIMITED COMPANY</Value>
+                    <Value AttributeID="a_mm_CaseSize">300</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.80</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.21</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">50.96</Value>
+                    <Value AttributeID="a_mm_ExWorks">49.95</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">49.95</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">49.95</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">DAWN MEATS GROUP UNLIMITED COMPANY-IRL-KILMACTHOMAS-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00005300</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">DAWN MEATS GROUP UNLIMITED COMPANY</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">1</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">9.1</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">8.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.75</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1131</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">272</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">23.5</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.63</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">250</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">19.3</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">54.8</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="FB">FROZEN BEEF</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID3" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-LONDONDERRY-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">CHEESE-SLICES</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00013029-CHEESE SLICES</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00013029-CHEESE SLICES</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_CaseSize">1008</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">1008</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.49</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">-0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">44.46</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">49.64</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">43.97</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">43.97</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.1290</Value>
+                    <Value AttributeID="a_mm_FacilityName">DAIRY PRODUCE PACKERS LIMITED-GBR-LONDONDERRY-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00013029</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.046</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">46.51</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">EURO</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">44.46</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="LC">CHILLED</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID4" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">Burrows Netherlands B.V.-NLD-Kerkrade-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">WRAP-CHEESEBURGER</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00285748-WRAP 12x9,5/HB/ECO/UK/ROI/19</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00285748-WRAP 12x9,5/HB/ECO/UK/ROI/19</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">Burrows Netherlands B.V.</Value>
+                    <Value AttributeID="a_mm_CaseSize">1000</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">1000</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.16</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.01</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.50</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">5.83</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">5.82</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">5.16</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">5.16</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.1290</Value>
+                    <Value AttributeID="a_mm_FacilityName">Burrows Netherlands B.V.-NLD-Kerkrade-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00285748</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">Burrows Netherlands B.V.</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.008</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">7.92</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">EURO</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">5.83</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="DR">DRY</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID5" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">Jain Farm Fresh Foods Ltd.-IND-Jalgaon-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">ONION-DEHYDRATED</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00056100-00056/DEHY ONION</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00056100-00056/DEHY ONION</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_CaseSize">32</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">32</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">-1.16</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">21.2</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">31.66</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">22.36</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">22.36</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.4160</Value>
+                    <Value AttributeID="a_mm_FacilityName">Jain Farm Fresh Foods Ltd.-IND-Jalgaon-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00056100</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.728</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">23.29</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">USD</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">385.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">385.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">21.2</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="DR">DRY</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID6" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-BANBURY-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00001000-REGULAR BUN</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001000-REGULAR BUN</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_CaseSize">60</Value>
+                    <Value AttributeID="a_mm_CaseSize(RC UOM)">60</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">-0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">2.69</Value>
+                    <Value AttributeID="a_mm_Dualbalancingvalue">0</Value>
+                    <Value AttributeID="a_mm_ExWorks">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">2.53</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">GUENTHER BAKERIES UK LIMITED-GBR-BANBURY-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00001000</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">50.3</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">1.8</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">1.3</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">3.6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1176</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">278</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">9.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">430</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">3.7</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">7.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">31.5</Value>
+                    <Value AttributeID="a_mm_PortionCost">0.063</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_StoreDelivered">3.76</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_Volume%">100</Value>
+                    <Value AttributeID="a_mm_Weightedaverageprice">2.69</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="QB">BUNS</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID7" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-Heywood-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00001000-REGULAR BUN</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001000-REGULAR BUN</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_CaseSize">60</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">-0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">2.69</Value>
+                    <Value AttributeID="a_mm_ExWorks">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">2.53</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">GUENTHER BAKERIES UK LIMITED-GBR-Heywood-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00001000</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">48.4</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">1.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">1.1</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">3.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1128</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">267</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">9.5</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">410</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">3.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">7.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">34.2</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="QB">BUNS</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID8" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-BANBURY-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00001006-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001006-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_CaseSize">60</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">-0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">2.69</Value>
+                    <Value AttributeID="a_mm_ExWorks">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">2.53</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">GUENTHER BAKERIES UK LIMITED-GBR-BANBURY-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00001006</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">50.3</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">1.8</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">1.3</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">3.6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1176</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">278</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">9.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">430</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">3.7</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">7.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">31.5</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="QB">BUNS</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="ExistingSupplierGRID9" Type="BMIToSupplierGRID">
+                <MetaData>
+                    <Value AttributeID="STEPName_Calculated" Derived="true">N/A</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-Heywood-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSP">00001006-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001006-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSUObjectType">Existing Shipping Package</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_CaseSize">60</Value>
+                    <Value AttributeID="a_mm_CaseSizeUOM">Ind</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount1">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount2">0.08</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount3">-0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount4">0.00</Value>
+                    <Value AttributeID="a_mm_CostVarianceAmount5">0.00</Value>
+                    <Value AttributeID="a_mm_DistributionCentrePrice">2.69</Value>
+                    <Value AttributeID="a_mm_ExWorks">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksDiscount">2.53</Value>
+                    <Value AttributeID="a_mm_ExWorksPerGBP">2.53</Value>
+                    <Value AttributeID="a_mm_ExchangeRate">1.0000</Value>
+                    <Value AttributeID="a_mm_FacilityName">GUENTHER BAKERIES UK LIMITED-GBR-Heywood-(MF)</Value>
+                    <Value AttributeID="a_mm_LinkedSUWRIN">00001006</Value>
+                    <Value AttributeID="a_mm_Linkedsupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">48.4</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">1.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">1.1</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">3.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1128</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">267</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">9.5</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">410</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">3.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">7.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">34.2</Value>
+                    <Value AttributeID="a_mm_SUUnitType">Ind</Value>
+                    <Value AttributeID="a_mm_SupplierCurrency">Sterling GBP</Value>
+                    <Value AttributeID="a_mm_SupplierFreight">0.00</Value>
+                    <Value AttributeID="a_mm_TargetYield">1.00</Value>
+                    <Value AttributeID="a_mm_TheoreticalYield">1.00</Value>
+                    <Value AttributeID="a_mm_MBCaseRate" ID="QB">BUNS</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid101" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-DEU-Lutherstadt Eisleben-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid102" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-DEU-Duisburg-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid11" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-DEU-Bad Iburg-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid111" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Ireland UC-IRL-Dublin-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid112" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-GBR-Dunstable-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid12" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-GBR-Scunthorpe-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid123" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-GBR-Dunstable-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid124" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-GBR-March-(WH)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid129" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid131" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">CHRIS HAYTER TRANSPORT LTD-GBR-Heywood-(WH)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid132" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-RENFREWSHIRE-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid136" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Bradford-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid137" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-ELLESMERE PORT-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid138" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid143" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK KUTAS GIDA SAN DIS TIC A S-TUR-Izmir-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid144" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">DAWN MEATS GROUP UNLIMITED COMPANY-IRL-KILMACTHOMAS-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAWN MEATS GROUP UNLIMITED COMPANY</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid145" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-Portadown-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid146" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-LONDONDERRY-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid147" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-Luton-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid148" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">Burrows Netherlands B.V.-NLD-Kerkrade-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">Burrows Netherlands B.V.</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid149" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">Jain Farm Fresh Foods Ltd.-IND-Jalgaon-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">Jain Farm Fresh Foods Ltd.</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid150" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-Milton Keynes-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid151" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-BANBURY-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid152" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-Heywood-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid153" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-BEL-Olen-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid47" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-GBR-Spalding</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid5" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-DEU-Günzburg-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid72" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-GBR-HATHERLEIGH</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid90" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-NLD-BEUNINGEN GLD-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="NutritionGrid1" Type="BMIToNutritionGRID">
+                <MetaData>
+                    <Value AttributeID="a_mm_Name">1.BMI Nutrition per Serving Size Unrounded</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">30.448</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">1.771</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.483</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">3.027</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.144</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-AddedSugars">3.884</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">2.269</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">870.729</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">206.782</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">7.498</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1.318</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">527.729</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">5.609</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">6.890</Value>
+                    <Value AttributeID="a_mm_ServingSize">82.58</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="NutritionGrid2" Type="BMIToNutritionGRID">
+                <MetaData>
+                    <Value AttributeID="a_mm_Name">2.BMI Nutrition Rounded Values</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">30</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">1.8</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.5</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">3.0</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-AddedSugars">3.9</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">2.3</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">871</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">207</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">7.5</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1.3</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">527.7</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">5.6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">6.9</Value>
+                    <Value AttributeID="a_mm_ServingSize">82.58</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="NutritionGrid3" Type="BMIToNutritionGRID">
+                <MetaData>
+                    <Value AttributeID="a_mm_Name">5.Daily Intake Percent</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">12</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">3</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">1</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">15</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-AddedSugars">4</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">230</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">10</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">10</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">15</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">22</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">8795</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">8</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">8</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="NutritionGrid4" Type="BMIToNutritionGRID">
+                <MetaData>
+                    <Value AttributeID="a_mm_%FruitContent">1</Value>
+                    <Value AttributeID="a_mm_%VegetableContent">1</Value>
+                    <Value AttributeID="a_mm_Name">6.Daily Intake value</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">260</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">70</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">70</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">20</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">70</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-AddedSugars">90</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">8400</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">2000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">50</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">70</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">90</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Water">6</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="NutritionGrid5" Type="BMIToNutritionGRID">
+                <MetaData>
+                    <Value AttributeID="a_mm_Name">3.BMI Nutrition per 100 grams Unrounded</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">36.871</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">2.144</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.585</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">3.665</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.174</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-AddedSugars">4.703</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">2.747</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1054.406</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">250.403</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">9.079</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1.596</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">639.052</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">6.792</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">8.343</Value>
+                    <Value AttributeID="a_mm_ServingSize">100</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="NutritionGrid6" Type="BMIToNutritionGRID">
+                <MetaData>
+                    <Value AttributeID="a_mm_Name">4.BMI Nutrition per 100 grams Rounded</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">37</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">2.1</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.6</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">3.7</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.2</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-AddedSugars">4.7</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">2.7</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">1054</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">250</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">9.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">1.6</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">639.1</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">6.8</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">8.3</Value>
+                    <Value AttributeID="a_mm_ServingSize">100</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP1" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">10:1 REG MEAT</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00005141-10/1 BEEF PATTY</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP10" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001513-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP11" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">KETCHUP BIB</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">02679285-KETCHUP</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP12" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">MUSTARD-BULK</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00026077-MUSTARD POUCH</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP13" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">PICKLES-DILL</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00063141-SLICED PICKLES</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP2" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">10:1 REG MEAT</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00005300-10/1 PATTY/FR</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAWN MEATS GROUP UNLIMITED COMPANY</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP3" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">CHEESE-SLICES</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00013029-CHEESE SLICES</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP4" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">WRAP-CHEESEBURGER</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00285748-WRAP 12x9,5/HB/ECO/UK/ROI/19</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">Burrows Netherlands B.V.</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP5" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">ONION-DEHYDRATED</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00056100-00056/DEHY ONION</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">Jain Farm Fresh Foods Ltd.</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP6" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001000-REGULAR BUN</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="RCSUSUPP8" Type="BMIToBMIGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00001006-REGULAR BUNS</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="UK" Type="BMIToBMIMarket"></ClassificationReference>
+            <ClassificationReference ClassificationID="UK_1" Type="BMIToSellingOption"></ClassificationReference>
+            <EntityCrossReference EntityID="ALLERGEN_010" Type="Allergens">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="01">Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="ALLERGEN_012" Type="Allergens">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="01">Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="ALLERGEN_014" Type="Allergens">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="01">Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="ALLERGEN_024" Type="Allergens">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="02">May Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="SENSITIVITY_007" Type="Sensitivity">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="01">Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="SENSITIVITY_010" Type="Sensitivity">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="02">May Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="SENSITIVITY_012" Type="Sensitivity">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="01">Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="SENSITIVITY_013" Type="Sensitivity">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="01">Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="SENSITIVITY_017" Type="Sensitivity">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="01">Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="SENSITIVITY_019" Type="Sensitivity">
+                <MetaData>
+                    <Value AttributeID="Contains" ID="02">May Contain</Value>
+                </MetaData>
+            </EntityCrossReference>
+            <EntityCrossReference EntityID="VD_1_12" Type="BMIVolumeData"></EntityCrossReference>
+            <ProductCrossReference ProductID="RC_12459838" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="2">individual</Value>
+                    <Value AttributeID="a_mm_Status" ID="3">In Maintenance</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_FoodCost">0.177</Value>
+                    <Value AttributeID="a_mm_RCCost">0.177</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">20009</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-10-01</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">1</Value>
+                    <Value AttributeID="a_mm_ServingSize">0</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12459847" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="2">individual</Value>
+                    <Value AttributeID="a_mm_Status" ID="2">Approved</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">14.2</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_FoodCost">0.046</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">1.065</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">0.952</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.110</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">2.698</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.143</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">208.882</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">50.320</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">2.580</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.441</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">176.553</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">3.971</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">0.715</Value>
+                    <Value AttributeID="a_mm_RCCost">0.046</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">30028</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-10-01</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">1</Value>
+                    <Value AttributeID="a_mm_ServingSize">14.2</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12459916" Type="BMIToPackagingComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="2">individual</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">50010</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">1</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12459916" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="2">individual</Value>
+                    <Value AttributeID="a_mm_Status" ID="2">Approved</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">0</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_PaperCost">0.008</Value>
+                    <Value AttributeID="a_mm_RCCost">0.008</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">50010</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-11-01</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">1</Value>
+                    <Value AttributeID="a_mm_ServingSize">0</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12459974" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="1">grams</Value>
+                    <Value AttributeID="a_mm_Status" ID="2">Approved</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">1</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_FoodCost">0.002</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">0.086</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">0.040</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">2.142</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">0.510</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">0.015</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">0.123</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">0.003</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">0.030</Value>
+                    <Value AttributeID="a_mm_RCCost">0.002</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">40048</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-10-01</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">0.88</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">0.88</Value>
+                    <Value AttributeID="a_mm_ServingSize">0.88</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12459986" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="2">individual</Value>
+                    <Value AttributeID="a_mm_Status" ID="2">Approved</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">52.2</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_FoodCost">0.063</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">26.465</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">0.794</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.366</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.326</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-AddedSugars">3.884</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">1.963</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">602.698</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">142.500</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">4.678</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.537</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">214.960</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">1.556</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">3.884</Value>
+                    <Value AttributeID="a_mm_RCCost">0.063</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">10005</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-10-01</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">1</Value>
+                    <Value AttributeID="a_mm_ServingSize">52.2</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12460052" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_Status" ID="2">Approved</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="3">ml</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">1.14</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_FoodCost">0.010</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">2.816</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">0.194</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">54.264</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">12.768</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">0.182</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.228</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">92.340</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">0.046</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">2.257</Value>
+                    <Value AttributeID="a_mm_RCCost">0.010</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">40018</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-10-01</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">10.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">10</Value>
+                    <Value AttributeID="a_mm_ServingSize">11.399999999999999</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12460068" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="1">grams</Value>
+                    <Value AttributeID="a_mm_Status" ID="2">Approved</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">1</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_FoodCost">0.001</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">0.007</Value>
+                    <Value AttributeID="a_mm_NutCompositionMonoUnsatFattyAcids">0.024</Value>
+                    <Value AttributeID="a_mm_NutCompositionPolyUnsatFattyAcids">0.007</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.003</Value>
+                    <Value AttributeID="a_mm_NutCompositionTransFattyAcids">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">0.034</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">2.123</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">0.530</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">0.033</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.024</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">9.653</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">0.034</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">0.004</Value>
+                    <Value AttributeID="a_mm_RCCost">0.001</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">40056</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-10-01</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">0.80</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">0.8</Value>
+                    <Value AttributeID="a_mm_ServingSize">0.8</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+            <ProductCrossReference ProductID="RC_12460069" Type="BMIToRecipeComponent">
+                <MetaData>
+                    <Value AttributeID="a_mm_WasteInclusion" ID="0">YES</Value>
+                    <Value AttributeID="a_mm_ServingQuantityUnitofMeasure" ID="1">grams</Value>
+                    <Value AttributeID="a_mm_Status" ID="2">Approved</Value>
+                    <Value AttributeID="a_mm_ApprovalStatus">Active</Value>
+                    <Value AttributeID="a_mm_ConversionFactor">1</Value>
+                    <Value AttributeID="a_mm_EffectiveFromDate">2016-08-25</Value>
+                    <Value AttributeID="a_mm_EffectiveToDate">2099-12-31</Value>
+                    <Value AttributeID="a_mm_FoodCost">0.003</Value>
+                    <Value AttributeID="a_mm_NutCompositionCarbohydrates">0.009</Value>
+                    <Value AttributeID="a_mm_NutCompositionSaturatedFattyAcids">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-DietaryFibre">0.037</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-EnergykJ">0.620</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Energykcal">0.155</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Protein">0.009</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Salt">0.087</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-Sodium">34.100</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalFats">0.000</Value>
+                    <Value AttributeID="a_mm_NutritionComposition-TotalSugars">0.000</Value>
+                    <Value AttributeID="a_mm_RCCost">0.003</Value>
+                    <Value AttributeID="a_mm_RecipeComponentNumber(MRI)">40057</Value>
+                    <Value AttributeID="a_mm_RecipeGroup">1</Value>
+                    <Value AttributeID="a_mm_SUCostEffectiveFromDate">2019-11-05</Value>
+                    <Value AttributeID="a_mm_ServingFactor">1.00</Value>
+                    <Value AttributeID="a_mm_ServingQuantity">3.10</Value>
+                    <Value AttributeID="a_mm_ServingQuantityTechnical">3.1</Value>
+                    <Value AttributeID="a_mm_ServingSize">3.1</Value>
+                    <Value AttributeID="a_mm_ServingSizeUOM">grams</Value>
+                </MetaData>
+            </ProductCrossReference>
+        </Product>
+    </Products>
+</STEP-ProductInformation>
