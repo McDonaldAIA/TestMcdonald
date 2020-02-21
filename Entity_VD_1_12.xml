@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context2" WorkspaceID="Approved" UseContextLocale="false">
+    <Entities>
+        <Entity ID="VD_1_12" UserTypeID="SellingOption" ParentID="SellingOptionsUK" Selected="false" Referenced="true">
+            <Name>ALC-ALL</Name>
+        </Entity>
+    </Entities>
+</STEP-ProductInformation>
