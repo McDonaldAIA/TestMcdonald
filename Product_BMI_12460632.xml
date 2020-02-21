@@ -597,206 +597,93 @@
                     <Value AttributeID="a_mm_MBCaseRate" ID="QB">BUNS</Value>
                 </MetaData>
             </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid101" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-DEU-Lutherstadt Eisleben-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid102" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-DEU-Duisburg-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid11" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-DEU-Bad Iburg-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid111" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Ireland UC-IRL-Dublin-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid112" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-GBR-Dunstable-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid12" Type="BMIToFacilityGrid">
+            <ClassificationReference ClassificationID="FacilityGrid1" Type="BMIToFacilityGrid">
                 <MetaData>
                     <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-GBR-Scunthorpe-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_216453</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459838</Value>
                     <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214432</Value>
                     <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
                 </MetaData>
             </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid123" Type="BMIToFacilityGrid">
+            <ClassificationReference ClassificationID="FacilityGrid2" Type="BMIToFacilityGrid">
                 <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-GBR-Dunstable-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-NLD-BEUNINGEN GLD-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_890823</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459838</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214432</Value>
                     <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
                 </MetaData>
             </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid124" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">ARYZTA Bakeries Deutschland GmbH-GBR-March-(WH)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid129" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid131" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">CHRIS HAYTER TRANSPORT LTD-GBR-Heywood-(WH)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid132" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-RENFREWSHIRE-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid136" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Bradford-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid137" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-ELLESMERE PORT-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid138" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid143" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK KUTAS GIDA SAN DIS TIC A S-TUR-Izmir-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid144" Type="BMIToFacilityGrid">
+            <ClassificationReference ClassificationID="FacilityGrid3" Type="BMIToFacilityGrid">
                 <MetaData>
                     <Value AttributeID="a_mm_BMIGridFacility">DAWN MEATS GROUP UNLIMITED COMPANY-IRL-KILMACTHOMAS-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_216163</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459838</Value>
                     <Value AttributeID="a_mm_BMIGridSupplier">DAWN MEATS GROUP UNLIMITED COMPANY</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_212509</Value>
                     <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
                 </MetaData>
             </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid145" Type="BMIToFacilityGrid">
+            <ClassificationReference ClassificationID="FacilityGrid4" Type="BMIToFacilityGrid">
                 <MetaData>
                     <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-Portadown-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_215993</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459847</Value>
                     <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid146" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-LONDONDERRY-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid147" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-Luton-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid148" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">Burrows Netherlands B.V.-NLD-Kerkrade-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">Burrows Netherlands B.V.</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid149" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">Jain Farm Fresh Foods Ltd.-IND-Jalgaon-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">Jain Farm Fresh Foods Ltd.</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid150" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-Milton Keynes-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid151" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-BANBURY-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid152" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-GBR-Heywood-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid153" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">GUENTHER BAKERIES UK LIMITED-BEL-Olen-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
-                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid47" Type="BMIToFacilityGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-GBR-Spalding</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_212465</Value>
                     <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
                 </MetaData>
             </ClassificationReference>
             <ClassificationReference ClassificationID="FacilityGrid5" Type="BMIToFacilityGrid">
                 <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-DEU-Günzburg-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">DAIRY PRODUCE PACKERS LIMITED-GBR-LONDONDERRY-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_217159</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459847</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_212465</Value>
                     <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
                 </MetaData>
             </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid72" Type="BMIToFacilityGrid">
+            <ClassificationReference ClassificationID="FacilityGrid6" Type="BMIToFacilityGrid">
                 <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-GBR-HATHERLEIGH</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">Burrows Netherlands B.V.-NLD-Kerkrade-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_217859</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459916</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">Burrows Netherlands B.V.</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_212101</Value>
                     <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
                 </MetaData>
             </ClassificationReference>
-            <ClassificationReference ClassificationID="FacilityGrid90" Type="BMIToFacilityGrid">
+            <ClassificationReference ClassificationID="FacilityGrid7" Type="BMIToFacilityGrid">
                 <MetaData>
-                    <Value AttributeID="a_mm_BMIGridFacility">OSI Group, LLC-NLD-BEUNINGEN GLD-(MF)</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-Littleborough-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_216406</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12460052</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214070</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid8" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK (UK) LIMITED-GBR-RENFREWSHIRE-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_223195</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12460052</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214070</Value>
+                    <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
+                </MetaData>
+            </ClassificationReference>
+            <ClassificationReference ClassificationID="FacilityGrid9" Type="BMIToFacilityGrid">
+                <MetaData>
+                    <Value AttributeID="a_mm_BMIGridFacility">MCCORMICK KUTAS GIDA SAN DIS TIC A S-TUR-Izmir-(MF)</Value>
+                    <Value AttributeID="a_mm_BMIGridFacilityId">FAC_217004</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12460069</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214075</Value>
                     <Value AttributeID="a_mm_FacilityVisitRequired">Approved without site visit</Value>
                 </MetaData>
             </ClassificationReference>
@@ -928,88 +815,77 @@
             <ClassificationReference ClassificationID="RCSUSUPP1" Type="BMIToBMIGrid">
                 <MetaData>
                     <Value AttributeID="a_mm_BMIGridRC">10:1 REG MEAT</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459838</Value>
                     <Value AttributeID="a_mm_BMIGridSU">00005141-10/1 BEEF PATTY</Value>
+                    <Value AttributeID="a_mm_BMIGridSUID">SI_00005141</Value>
                     <Value AttributeID="a_mm_BMIGridSupplier">OSI Group, LLC</Value>
-                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="RCSUSUPP10" Type="BMIToBMIGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
-                    <Value AttributeID="a_mm_BMIGridSU">00001513-REGULAR BUNS</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">ARYZTA Bakeries Deutschland GmbH</Value>
-                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="RCSUSUPP11" Type="BMIToBMIGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridRC">KETCHUP BIB</Value>
-                    <Value AttributeID="a_mm_BMIGridSU">02679285-KETCHUP</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="RCSUSUPP12" Type="BMIToBMIGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridRC">MUSTARD-BULK</Value>
-                    <Value AttributeID="a_mm_BMIGridSU">00026077-MUSTARD POUCH</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
-                    <Value AttributeID="a_mm_FDApproval">Accept</Value>
-                </MetaData>
-            </ClassificationReference>
-            <ClassificationReference ClassificationID="RCSUSUPP13" Type="BMIToBMIGrid">
-                <MetaData>
-                    <Value AttributeID="a_mm_BMIGridRC">PICKLES-DILL</Value>
-                    <Value AttributeID="a_mm_BMIGridSU">00063141-SLICED PICKLES</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214432</Value>
                     <Value AttributeID="a_mm_FDApproval">Accept</Value>
                 </MetaData>
             </ClassificationReference>
             <ClassificationReference ClassificationID="RCSUSUPP2" Type="BMIToBMIGrid">
                 <MetaData>
                     <Value AttributeID="a_mm_BMIGridRC">10:1 REG MEAT</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459838</Value>
                     <Value AttributeID="a_mm_BMIGridSU">00005300-10/1 PATTY/FR</Value>
+                    <Value AttributeID="a_mm_BMIGridSUID">SI_00005300</Value>
                     <Value AttributeID="a_mm_BMIGridSupplier">DAWN MEATS GROUP UNLIMITED COMPANY</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_212509</Value>
                     <Value AttributeID="a_mm_FDApproval">Accept</Value>
                 </MetaData>
             </ClassificationReference>
             <ClassificationReference ClassificationID="RCSUSUPP3" Type="BMIToBMIGrid">
                 <MetaData>
                     <Value AttributeID="a_mm_BMIGridRC">CHEESE-SLICES</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459847</Value>
                     <Value AttributeID="a_mm_BMIGridSU">00013029-CHEESE SLICES</Value>
+                    <Value AttributeID="a_mm_BMIGridSUID">SI_00013029</Value>
                     <Value AttributeID="a_mm_BMIGridSupplier">DAIRY PRODUCE PACKERS LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_212465</Value>
                     <Value AttributeID="a_mm_FDApproval">Accept</Value>
                 </MetaData>
             </ClassificationReference>
             <ClassificationReference ClassificationID="RCSUSUPP4" Type="BMIToBMIGrid">
                 <MetaData>
                     <Value AttributeID="a_mm_BMIGridRC">WRAP-CHEESEBURGER</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12459916</Value>
                     <Value AttributeID="a_mm_BMIGridSU">00285748-WRAP 12x9,5/HB/ECO/UK/ROI/19</Value>
+                    <Value AttributeID="a_mm_BMIGridSUID">SI_1975657</Value>
                     <Value AttributeID="a_mm_BMIGridSupplier">Burrows Netherlands B.V.</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_212101</Value>
                     <Value AttributeID="a_mm_FDApproval">Accept</Value>
                 </MetaData>
             </ClassificationReference>
             <ClassificationReference ClassificationID="RCSUSUPP5" Type="BMIToBMIGrid">
                 <MetaData>
-                    <Value AttributeID="a_mm_BMIGridRC">ONION-DEHYDRATED</Value>
-                    <Value AttributeID="a_mm_BMIGridSU">00056100-00056/DEHY ONION</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">Jain Farm Fresh Foods Ltd.</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">KETCHUP BIB</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12460052</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">02679285-KETCHUP</Value>
+                    <Value AttributeID="a_mm_BMIGridSUID">SI_02679285</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214070</Value>
                     <Value AttributeID="a_mm_FDApproval">Accept</Value>
                 </MetaData>
             </ClassificationReference>
             <ClassificationReference ClassificationID="RCSUSUPP6" Type="BMIToBMIGrid">
                 <MetaData>
-                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
-                    <Value AttributeID="a_mm_BMIGridSU">00001000-REGULAR BUN</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">MUSTARD-BULK</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12460068</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00026077-MUSTARD POUCH</Value>
+                    <Value AttributeID="a_mm_BMIGridSUID">SI_00026077</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK (UK) LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214070</Value>
                     <Value AttributeID="a_mm_FDApproval">Accept</Value>
                 </MetaData>
             </ClassificationReference>
-            <ClassificationReference ClassificationID="RCSUSUPP8" Type="BMIToBMIGrid">
+            <ClassificationReference ClassificationID="RCSUSUPP7" Type="BMIToBMIGrid">
                 <MetaData>
-                    <Value AttributeID="a_mm_BMIGridRC">BUNS-REGULAR</Value>
-                    <Value AttributeID="a_mm_BMIGridSU">00001006-REGULAR BUNS</Value>
-                    <Value AttributeID="a_mm_BMIGridSupplier">GUENTHER BAKERIES UK LIMITED</Value>
+                    <Value AttributeID="a_mm_BMIGridRC">PICKLES-DILL</Value>
+                    <Value AttributeID="a_mm_BMIGridRCID">RC_12460069</Value>
+                    <Value AttributeID="a_mm_BMIGridSU">00063141-SLICED PICKLES</Value>
+                    <Value AttributeID="a_mm_BMIGridSUID">SI_00063141</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplier">MCCORMICK KUTAS GIDA SAN DIS TIC A S</Value>
+                    <Value AttributeID="a_mm_BMIGridSupplierId">SUP_214075</Value>
                     <Value AttributeID="a_mm_FDApproval">Accept</Value>
                 </MetaData>
             </ClassificationReference>
