@@ -8,6 +8,8 @@
                 <Value AttributeID="AttributeHelpText">GIT Test for Event Generation</Value>
             </MetaData>
             <AttributeGroupLink AttributeGroupID="ConfigurationAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="SIM_Additional_Address1"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="SIM_Additional_Address2"></AttributeGroupLink>
             <UserTypeLink UserTypeID="Case"></UserTypeLink>
             <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
             <UserTypeLink UserTypeID="Pack"></UserTypeLink>
