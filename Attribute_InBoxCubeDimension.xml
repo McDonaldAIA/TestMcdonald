@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="InBoxCubeDimension" MultiValued="false" DefaultUnitID="unece.unit.MTQ" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="true">
+            <Name>Cube Dimension</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask="9999.999">
+                <UnitLink UnitID="unece.unit.FTQ"></UnitLink>
+                <UnitLink UnitID="unece.unit.MTQ"></UnitLink>
+            </Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">The linear dimensions multiplied to get a cubic result  as defined in the formula of H X W X D</Value>
+                <Value AttributeID="Purpose">The dimensions of an imaginary cube which can be drawn around the trade item as defined in the formula of H X W X D (The linear dimensions multiplied to get a cubic result)</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PackagingAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_RDSRDFP0_Triggering"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pallet"></UserTypeLink>
+            <UserTypeLink UserTypeID="ShippingPackage"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

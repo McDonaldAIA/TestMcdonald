@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="PrefixAttributeGroup" ShowInWorkbench="true" ManuallySorted="false" Selected="true" Referenced="true" ParentID="McDonaldItemAttributeGroup">
+            <Name>Prefix Attribute Group</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">This attribute groups is used for grouping all the attributes that defines a prefix which is technically named as McDonaldProduct Object in the system</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

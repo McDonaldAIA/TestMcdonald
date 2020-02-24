@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="TradeItemUnitDescriptorCode" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Trade Item Unit Descriptor Code</Name>
+            <ListOfValueLink ListOfValueID="TIUD_LOV"></ListOfValueLink>
+            <AttributeGroupLink AttributeGroupID="TOBEDELETDATTRIBUTEGROUP"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="TradeItemIdentificationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

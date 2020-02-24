@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="Height" MultiValued="false" DefaultUnitID="unece.unit.CMT" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="true">
+            <Name>Packaging Height</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask="999.99">
+                <UnitLink UnitID="unece.unit.CMT"></UnitLink>
+                <UnitLink UnitID="unece.unit.FOT"></UnitLink>
+                <UnitLink UnitID="unece.unit.INH"></UnitLink>
+                <UnitLink UnitID="unece.unit.MTR"></UnitLink>
+            </Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">The vertical dimension from the lowest extremity to the highest extremity</Value>
+                <Value AttributeID="Purpose">The vertical dimension from the lowest extremity to the highest extremity, including packaging (Pack, Case, Pallet).</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PackagingAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_RDSRDFP0_Triggering"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pallet"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

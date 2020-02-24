@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="WRINSuffixAttributesforToys" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>WRIN Suffix Attributes for Toys</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="IF(value('ProductGroup')=&amp;quot;Promotions&amp;quot;,
+concatenate(
+value('IsUnder3Toy'),
+';',
+value('TradeItemLanguage'),
+';',
+value('CaseLanguage'),
+';',
+value('TotalPackQty'),
+';',
+value('PackQty'),
+';',
+value('PackCount'),
+';',
+value('TradeItemGraphics')
+),&amp;quot;&amp;quot; )"/&gt;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="Purpose">It is used to calculate Suffix attributes for Toys.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CalculatedAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

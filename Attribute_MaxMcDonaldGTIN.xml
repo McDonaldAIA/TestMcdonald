@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MaxMcDonaldGTIN" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>MaxMcDonaldGTIN</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="GTINGenerationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="GTINPrefixGenerator"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

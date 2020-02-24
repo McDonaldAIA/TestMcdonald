@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="Gender" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Gender</Name>
+            <ListOfValueLink ListOfValueID="GenderLOV"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="DisplaySequence">1</Value>
+                <Value AttributeID="Purpose">To store the gender if the Product group is Promotions</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="McDonaldItemSpecificationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

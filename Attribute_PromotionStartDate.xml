@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="PromotionStartDate" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Promotion Start Date</Name>
+            <Validation BaseType="isodatetime" MinValue="" MaxValue="" MaxLength="" InputMask="9999-99-99 99:99:99"></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">Date when the Promotion is schedule to start</Value>
+                <Value AttributeID="Purpose">Date when the Promotion is schedule to start</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="DateInformationAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

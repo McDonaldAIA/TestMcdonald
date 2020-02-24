@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="SearchTradeItemDescription" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="true">
+            <Name>SearchTradeItemDescription</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="30" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="ConfigurationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldAssemblyItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>
