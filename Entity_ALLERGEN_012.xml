@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <Entities>
+        <Entity ID="ALLERGEN_012" UserTypeID="Allergens" ParentID="Allergens" Selected="false" Referenced="true">
+            <Name>Milk (including lactose)/Cow's milk</Name>
+        </Entity>
+    </Entities>
+</STEP-ProductInformation>

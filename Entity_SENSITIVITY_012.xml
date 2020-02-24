@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <Entities>
+        <Entity ID="SENSITIVITY_012" UserTypeID="Sensitivities" ParentID="Sensitivities" Selected="false" Referenced="true">
+            <Name>Preservatives</Name>
+        </Entity>
+    </Entities>
+</STEP-ProductInformation>

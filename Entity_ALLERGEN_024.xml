@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <Entities>
+        <Entity ID="ALLERGEN_024" UserTypeID="Allergens" ParentID="Allergens" Selected="false" Referenced="true">
+            <Name>Sesame seeds</Name>
+        </Entity>
+    </Entities>
+</STEP-ProductInformation>
