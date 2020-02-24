@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MissingSuffixesForPrefix" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>MissingSuffixesForPrefix</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="6000" InputMask=""></Validation>
+            <AttributeGroupLink AttributeGroupID="ConfigurationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="McDonaldProduct"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

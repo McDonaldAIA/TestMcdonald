@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="CodeDateFormat" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Code Date Format</Name>
+            <ListOfValueLink ListOfValueID="Code_Date_Format_LOV"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="Purpose">Used in Canda WRIN Form. Refers to how a specific  item's shelf life expiry can be determined.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemHandlingSpecification"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

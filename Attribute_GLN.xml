@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="GLN" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>GLN</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask="9999999999999"></Validation>
+            <MetaData>
+                <Value AttributeID="Purpose">Used as Metadata in Reference Type (ItemToFacility)</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="Facility Data Migration"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PackagingAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PackagingFacilityMetaData"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="TradeItemIdentificationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="DataMigration_Facility"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

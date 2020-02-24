@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MaxWrinNumberPrefix" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Max Wrin Number Prefix</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="Purpose">This is used to determine the next Prefix number.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CalculatedAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="RawItem"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

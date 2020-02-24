@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="AdditionalPartyIdentification" MultiValued="true" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Additional Party Identification (WSI#)</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask="99999"></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">Seperate multiple WSI using semi-colon (;)</Value>
+                <Value AttributeID="Purpose">Facility WSI</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PackagingFacilityMetaData"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="TradeItemFlavour" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Completeness="10" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Trade Item Flavour</Name>
+            <ListOfValueLink ListOfValueID="TradeItemFlavorLOV"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="Purpose">To identify the flavour of the item</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemDQAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="McDonaldItemIdentificationGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_SIMAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+            <UserTypeLink UserTypeID="ShippingPackage"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

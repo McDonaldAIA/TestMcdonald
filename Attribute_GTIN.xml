@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="GTIN" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>GTIN</Name>
+            <Validation BaseType="gtin14" MinValue="" MaxValue="" MaxLength="" InputMask="00000000000000"></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">Global Trade Item Number (GTIN) should be a unique 14-digit number used globally</Value>
+                <Value AttributeID="Purpose">Used to maintain unique GTIN for Pack/Case/Pallet for each Supplier</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PackagingAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="TradeItemIdentificationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

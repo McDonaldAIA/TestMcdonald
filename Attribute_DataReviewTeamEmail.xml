@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DataReviewTeamEmail" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>DataReviewTeamEmail</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <ValueTemplate>Bhavana.Venkatesh@us.mcd.com;Suresh.Maddula@us.mcd.com;Debajit.Das@us.mcd.com;Shiva.Naini@us.mcd.com;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="Purpose">Data Team Review Email Notification</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ConfigurationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

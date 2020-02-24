@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="CalculatedTradeItemHeight" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>CalculatedTradeItemHeight</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask="99999.99">
+                <UnitLink UnitID="unece.unit.CMT"></UnitLink>
+                <UnitLink UnitID="unece.unit.FOT"></UnitLink>
+                <UnitLink UnitID="unece.unit.INH"></UnitLink>
+                <UnitLink UnitID="unece.unit.MTR"></UnitLink>
+            </Validation>
+            <ValueTemplate>&lt;derive expr="{
+    value1:=IF(PRODUNIT('TradeItemHeight')=&amp;quot;ft&amp;quot;,value('TradeItemHeight', 'unece.unit.MTR'),
+        IF(PRODUNIT('TradeItemHeight')=&amp;quot;in&amp;quot;,value('TradeItemHeight', 'unece.unit.CMT'),
+            IF(PRODUNIT('TradeItemHeight')=&amp;quot;m&amp;quot;,value('TradeItemHeight', 'unece.unit.FOT'),
+                IF(PRODUNIT('TradeItemHeight')=&amp;quot;cm&amp;quot;,value('TradeItemHeight', 'unece.unit.INH'),
+                    &amp;quot;&amp;quot;
+                )
+            )
+        )
+    ),
+    value2:=if(round(value1, 2)=&amp;quot;0&amp;quot;,&amp;quot;0&amp;quot;,round(value1, 2))
+}concatenate(
+    value2,
+     IF(
+        PRODUNIT('TradeItemHeight')=&amp;quot;ft&amp;quot;,
+        &amp;quot; m&amp;quot;,
+        &amp;quot;&amp;quot;
+    ),
+    IF(
+        PRODUNIT('TradeItemHeight')=&amp;quot;m&amp;quot;,
+        &amp;quot; ft&amp;quot;,
+        &amp;quot;&amp;quot;
+    ),
+    IF(
+        PRODUNIT('TradeItemHeight')=&amp;quot;in&amp;quot;,
+        &amp;quot; cm&amp;quot;,
+        &amp;quot;&amp;quot;
+    ),
+    IF(
+        PRODUNIT('TradeItemHeight')=&amp;quot;cm&amp;quot;,
+        &amp;quot; in&amp;quot;,
+        &amp;quot;&amp;quot;
+    )
+)"/&gt;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="Purpose">It is used to store the converted Height Value.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CalculatedAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

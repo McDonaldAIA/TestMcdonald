@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="EnvURL" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Env URL</Name>
+            <Validation BaseType="url" MinValue="" MaxValue="" MaxLength="100" InputMask=""></Validation>
+            <ValueTemplate>https://scsimsandbox/webui/Mcdonalds_Supplier_Portal</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="Purpose">URL Of the Environment</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ConfigurationAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="TYP_M2M_Place_Holder"></UserTypeLink>
+            <UserTypeLink UserTypeID="TYP_SIM_DL_Facility"></UserTypeLink>
+            <UserTypeLink UserTypeID="TYP_SIM_DL_Supplier"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

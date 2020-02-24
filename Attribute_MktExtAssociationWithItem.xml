@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MktExtAssociationWithItem" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>MktExtAssociationWithItem</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="5000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="list(iterate(iterate(references('product','ItemToMarketExtension'),'referencetarget()'),'stepname()'),', ')"/&gt;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="Purpose">This attribute will be part of email notification that is sent out during Item Extention. This attribute should not be mapped to any outbound integration as it is internal to SIM</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CalculatedAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

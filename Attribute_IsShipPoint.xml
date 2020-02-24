@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="IsShipPoint" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" HierarchicalFiltering="false" ClassificationHierarchicalFiltering="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Is Ship Point</Name>
+            <ListOfValueLink ListOfValueID="YesNoRevisable"></ListOfValueLink>
+            <MetaData>
+                <Value AttributeID="Purpose">To choose the selected Facility as Ship Point Yes/No during Item onboarding and Item extension </Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="PackagingFacilityMetaData"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>
