@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_ACT_POPULATE_LEGACY_CUOM_APPROVE" Scope="Global" Type="Action" RunPrivileged="true" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessAction"></SetupGroupLink>
+            <Name>BR_ACT_POPULATE_LEGACY_CUOM_APPROVE</Name>
+            <OnApprove ApproveSetup="TriggerAndApproveNewParts"></OnApprove>
+            <Configuration>H4sIAAAAAAAAALVWXW/aMBR9Xn6FlQfUtUrS7mWVQqgCrBITrKjQ7bEyySW4cuzMcVC7Xz87NjRQAqvUveV+nXPu9TW4oFVG2CMuCkqgfCTLx4SzJcm6pXLIXmHCxhd1b55zitYgSsJZ5F75ly4ClvCUsCxyH+a33rV703O6/aokDMryvqLQcxDaOqY1HGrGjWs0jNzveI1niSCF3MTjRCqiX0Su+oSlpauxFNoUC5yDVDKMo+lCGslko/lLAZH7pGB9ilnmz6RQQt1eh8pwp5PO74rLULVjPl57MnbdmPm86WQydDSA5pjgorYR2niQmpQUOJFKhqkYVEIAk3eLJ0ikThnYDMsVU4JLm8t4Cta9bWhAcbmNV5Sar+Ak7wQznIE4wVhKKD6Kccyz04S0TnoPpSYMmtPuBtu6lvP/JgQXE7VAagL/ew/GPMGU/MELCpZxDnlBsYR+xVIKwT9qft3+dsHB+VDhosFKOSENJkrckkDqaQp0+dW7hYX35fLq2tlEUP/FBGcrssbBrBJQrpx7wCVngTovkqA4TTcIc44ysgaUcwFoxJZc5FhfQIQXvJJIb+dU8LRKZDAVsCTPqIPzIkRjyHDy8qPKFyB85zxw1lggtfBStYGius7PwF4B3dvZZ22PhmefQ6dOzpPUIoe1HY9Cx2yKT5SOMzN0z2J6xrywpgb55DTURRtGNWF19TRLPIoaCbsxTdhsIYpHOuEnphVY5mbYeOoOZkSdNJhECzR4uJvEudxna4LZlHacjfxTCsrdymZKC8oe9R6Ajep5OkHwYVvimzM2xmzFhRxCWW+6vnNHBnW44vj8Tc2Ys+xdJHsF7RwHttLzDgtVAbuoh+MXtv6ggt3SvWDL6R6f195hH04+itwypIPAbxU7b38EG476r7wb7D4U1FMi2H1L2GfJX6msAuO2CAAA</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="McDonaldItem"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>

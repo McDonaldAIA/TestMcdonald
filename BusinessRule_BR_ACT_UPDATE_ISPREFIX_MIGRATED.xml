@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_ACT_UPDATE_ISPREFIX_MIGRATED" Scope="Global" Type="Action" RunPrivileged="true" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessAction"></SetupGroupLink>
+            <Name>BR_ACT_UPDATE_ISPREFIX_MIGRATED</Name>
+            <OnApprove ApproveSetup="Never"></OnApprove>
+            <Configuration>H4sIAAAAAAAAALVXXXPaOBR9tn+FhocMaSY4fdsJkAwfyZad0DBA290nRtgClBW2V5Jp05389736sCU7TdidZplAfK/OveeeYxnsnBVbmq5wnjNKxIpuVnGWbui2JyAhr3KzbHL93vW3PUMHwgXN0n7rfeeihUgaZwlNt/3Wp+Xt+S+t66uwNywETYkQ84KRqxChKjHT7ZC/blKTcb/1Gz7gRcxpLsv1QSyB6AuVuyFNE9FSvaDbDHO8JxLGMAk/hVQng0bLx5z0Ww/QtsNwuu0sJIdBW1cnTHZrSk7+KjLZBTnmwGkysRZmDq9PtrIbqgaKY4pzHSNUZhA4JTmOJYxhKkYF5ySV9+sHEksFGVmE5RowioXFpllCbLoSNGJYVOsFY+YoOso7xSneEn6EUUiSvxXjXbY9Tsg06L9QKsLId7sXVXUvnP8bzjM+hQ0EDvzf++AuizGj3/GaEcu4JPucYUmGRZowEv3Lmd3uf3ng6N3PvEJ1uaGPwHmJljsqEPwVgiRIZqjIE5gYTcSMkw39NqVbDnGCsETTeHyfYpagGc+SIpbojhwIM80m40s0nK8Go+Xq02w8WN6sJovZ/OZ28vtqOvl1DolxOFbwLCfJJVoUnIhduCj2e8wf32KKnzLkXRSGB8xRtn7QjqvLr7Ml9lpVqfapiifj9mk3NDu3Q9NN1jab4NwWnpvwzIaADcNANc6xuvQ/UMIxj3ePqI/U9aZaWhUfsr3lsInhI5DZCzgeZ0rxHH+dSLI3SeitO8c7yhJoLqBng0V1G9llNXfwg8Fd+YJs91BdSqgWOoJ+h9FU/SbjqK1ID0B20YV/at+jJhQWzs5Ow+DvMNAj6hmgwuFgsPZBdQx8yL1xDZA6fPkEBEEU+Vr86jMrrCFHQ3SporvFe6p+5XyqmlPBsfZlh7J/GXtuObvWxq61sasBhbx2S9vlplN7pEIqv9anXW2XB3GGmfg1x6pS/Q2rpbuiuvaGuzWuUr/tUtlrQl+9kx8b+bGRX4dC2qg38t2E6tRYpFIfl+odwtsuKnxVvCsdchr/Kfyihvjm3vKoSvGmR6ndRDXpTntitCdGew0KWSvdanfzQZGFKu1Jpd0hnHgdvi7eKx6obxDhlzXlN/T7bKV+06TUb6K6fmcAMQYQY0ANC9nSgNIBNyOUWbCygDgLHMR5oMMjHvjlU/slK/zaZ0Y0nPA5SyeqRqUZVaLhhzNkYwzZGEOaeFioPKlMqc0M5a5IebOpOBoD2xnV6z28y6rmqMpa3yDNtijyvNwqJbBhUvBj1hL9okVVazd3QDftKm2dUHdLF6eVBUHgj/EZs4JYgc2bBPv72BFELijcgBEf/AcR7vfTvp4IE+StiT5mz3ns0VPFFHp5/ak+4P307C7RS+hnnV5Uf5KCZ62o/rBln9v+AUCbKO7XDQAA</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="Case"></ValidObjectType>
+                <ValidObjectType ID="McDonaldItem"></ValidObjectType>
+                <ValidObjectType ID="McDonaldProduct"></ValidObjectType>
+                <ValidObjectType ID="Pack"></ValidObjectType>
+                <ValidObjectType ID="Pallet"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>

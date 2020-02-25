@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_ACT_ITEM_SEARCH_WSI_GLN" Scope="Global" Type="Action" RunPrivileged="true" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessAction"></SetupGroupLink>
+            <Name>BR_ACT_ITEM_SEARCH_WSI_GLN</Name>
+            <Description>The BR is used in Resume Item Submission screen to search WSI and GLN.</Description>
+            <Dependency LibraryID="BR_ACT_BULK_UPLOAD" LibraryAlias="LIB_BULK_UPLOAD"></Dependency>
+            <OnApprove ApproveSetup="Never"></OnApprove>
+            <Configuration>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</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="BuySideRoot"></ValidObjectType>
+                <ValidObjectType ID="Case"></ValidObjectType>
+                <ValidObjectType ID="McDonaldItem"></ValidObjectType>
+                <ValidObjectType ID="Pack"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>
