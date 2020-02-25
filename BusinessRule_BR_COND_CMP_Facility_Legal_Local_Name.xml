@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_COND_CMP_Facility_Legal_Local_Name" Scope="Global" Type="Condition" RunPrivileged="false" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="Facility DQ Business Rules"></SetupGroupLink>
+            <Name>BR_COND_CMP_Facility_Legal_Local_Name</Name>
+            <OnApprove ApproveSetup="Never"></OnApprove>
+            <Configuration>H4sIAAAAAAAAALVUTW/TQBA941+x+BA1QthwQ7KdiKRUKiJQkbQcrak9MVttds1+RBTEf2fW67gONKIXlMvumzdv3ow30wrXcFlC2wqOpuTbslJyy5vcEGBnbQgHrMjn33eC7VEbrmQRv05exQxlpWoumyK+3ly8fBPPZ1G+cIZLNOazEziLGBuAq06OjeMBujwv4vewh3WleWsP8aWSNbdU6wu3Xxdc1ib2ciR4BRp2aMlJAMYQ82KBzTb3LRbxHSknAmSTrK0mr/FsImx21Mzkm1M2o47C4aGtcO96C8f5pLFZ5AV8jRW03Z2xA8JoWFZDZclGyFg6rVHaT7d3WFlPWfaMvtZbwcH0XKlq7OGhoaUAM8SdEOGUDj7SsZE8HfJOjOad1kqvaLzQ4P8e0QdVgeA/4FZgX3GDu1aAxYWTtcD0iZ4f3sZpw3vQrEF7ARWnp3vflf5IGoWfaUKRGxAOz4LF9eWqPDDLjlp6bghOPXvNySiGnGkW/amOzZPVPfUf6lGaCtUkXG5VL+E5FrQ9p1kF5MUY8jl8e/ZYv88L/0imP2mSJxmPdUIZ0TON1mnJrHaYRb9QGByhW6A7wfQLkWP2399xBHR/1Dw93gS0K9LjZdHvnd+0AfH+lwQAAA==</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="SIM_Facility"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>

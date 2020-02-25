@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_COND_CheckFacilityGLN" Scope="Global" Type="Condition" RunPrivileged="false" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="Facility DQ Business Rules"></SetupGroupLink>
+            <Name>BR_COND_CheckFacilityGLN</Name>
+            <OnApprove ApproveSetup="Never"></OnApprove>
+            <Configuration>H4sIAAAAAAAAALWTUW/TMBDHn8mn8PJQrUIk8IaUpBXtNjS0wrQWeIxuySXz5NrBPldsiO8+u06zVGjSXnizf/7f+X9nXydsy2UJXSc4mpI3ZaVkw9vcOECzLhwHVuTz31vBdqgNV7KIPyTvY4ayUjWXbRF/31y8+xjPZ1G+sIZLNObGCpxFjA3gep+Ojc8Dujwr4i+wg3WleUeH86WSNSd3109OdwsuaxP7dC7hNWjYIjknAYwR88mCmm0eOizie5c5ESDbZE3aeY1nE0HZUTGTX1ZR5ioKi+eywn5fW1jOJy1lkU/g71hBt98zdiDMNYs0VORshIil1Rolfbu9x4q8ZNkr+rs+CQ6m10pVY4+HgpYCzHBuhQirdPCRjo3k6RD3QmvOtVZ65doLLf7vFl2pCgR/hFuB/Y0b3HYCCBdW1gLTV3p+/hsvG96BZi3SBVTcfd2Hz1dfC9/NxLEfICyeBnPry1V50JROFOjUy9bcecMgnmZRlKZCtQmXjepjvYZA05krIJC3Y+RjeHN6bOKk8G82/RNFbzSS1ZKRtphFf1EYHNEG3N7hf7sxAvvvnqfH8+QmLj0euX56nwCUhCoe3QMAAA==</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="DataMigration_Facility"></ValidObjectType>
+                <ValidObjectType ID="SIM_Facility"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>

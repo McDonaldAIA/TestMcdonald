@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_COND_CheckFacilityWithBlankAddress" Scope="Global" Type="Condition" RunPrivileged="false" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonalds_DQ_Business_Rules"></SetupGroupLink>
+            <Name>BR_COND_CheckFacilityWithBlankAddress</Name>
+            <OnApprove ApproveSetup="Never"></OnApprove>
+            <Configuration>H4sIAAAAAAAAALVUTW+bQBA9l1+x5WBhVYX0Vgmw5Y9GTRWrUeKqRzSBgWy07NLdwaob9b93YYmDZVlpD73tvJl9b94OTCPaissMmkZwNBkvs1zJkleJsQDNGpd2WJrMf9aC7VAbrmTqfwgvfIYyVwWXVep/216+/+jPZ16ybA2XaMxtK3DmMXYAbno6Ns476Gqd+l9gB3e55g0951dKFpys1ndOD0suC+N3dJbwBjTUSLYTB4wh1pG5arbdN5j6j5Y5FCCr8I607dWfTQTFR2YmP1pFsXXkDi+2XNx7c8f5pKLY6wg6jQ00fczYM8LsY5GGnGwb7saq1Rolfb1/xJy6ktVQMWgtBAcz1EpV4AAfDK0EmEO+FcKdold1NyChQv2KYu2q/kW0k4zG7pPocO/MPD5prfTGztRq/e+5XKscBP8F9wIHxS3WjQDCZSsLgdFf9vzyQZ5veAealZBz+7Psb7F0M05ZN8awQrIQ2tnnaILhnY/QjvWzqjGYnsDL/dU6cM7Wm+xykMgWRaGtp2yNBFwYVzCdhqQWWsM+mMaeJ1TVCXFZqoHhGmVFD8wF7076DUWf7+7yMjiXfpteTJ88741GarVkpFuMvd8oDI7QEmxs4dPnHQH9T5tEx1vB7o3oeHEMO+gPbQlSFqMEAAA=</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="DataMigration_Facility"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>

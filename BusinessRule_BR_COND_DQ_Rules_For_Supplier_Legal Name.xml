@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_COND_DQ_Rules_For_Supplier_Legal Name" Scope="Global" Type="Condition" RunPrivileged="false" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonalds_DQ_Business_Rules"></SetupGroupLink>
+            <Name>BR_COND_DQ_Rules_For_Supplier_Legal Name</Name>
+            <Dependency LibraryID="DQ_Library_For_Names" LibraryAlias="DQ_Lib"></Dependency>
+            <OnApprove ApproveSetup="Never"></OnApprove>
+            <Configuration>H4sIAAAAAAAAAL1Y3VPbRhB/Rn/F4SZUDkKK25dOjaDBlBk6JTA1aR7ilB7y2b7kLKm6E4Qa52/v7t1JliU5wANlGMbej99+r1akIp/y+IqmqeBMXvHJVZTEEz7dl0BQB6lhG1q4f/hlLsgNyyRP4rDT8193CIujZMzjadh5d3my91Pn8MDZP8olj5mUf+SCHTiElIQLDUeqfEM6PQ47v9EbOowynqqCP0jiMVdg6z1XsyMej2UH4QDwgmZ0zhR4YghVEkEwI00u71IWdj4Bsi9oPPWHKgNfOwc7QvXXgtn5J09UHyIyH1Zhme86NvPxcGeq+g4CoI0zmurvhBQUAslSGY0UuGE0BnmWsVidX39ikUKRgZWwtt4ITqWVjZMxs+QyoIGgsuTnQphPwYN2zygXLHvA4FwLPcUkGgyqse8Hpd6GavyaZUl2BhWlU/bcVfk9iajg/9JrwazFSzZPBVXsKI/HggWP9HnVjpsdnuRxhP1J/gSTYzDxFgBcrKEncz1SmXYHyR5VoHWdK3Z63F0Qx3FuaEa4PI1vUPmYKhpOqJCs7wQBshoIIQL7U6bAWs5cE/jQShEtRlDOMLooOeQQOjPyXQQWydTn8SSx2g0bhrzboIOycfctdMMJFdPCV+1pyiJOxWBGM0lCYjCwFpjqX7a/e/Hyrx06T/uv3O7V7oePi+Xhz/3770dGbjTy/ODr33u2poWdYarxLjImYXZOBF2zCHwogGAoUufNqLyEskHcyAF/DA8qHAREZTkjkyQjvV6vkH4/44oNUxqxOsxtcp6dJZlhyjAYycUP3jLwFZPKbcuRU8tvA8TmtwkOynzSxNwOGyQf2mjudrsLZ2vdeYyt72w5S0QKXL876o16G50NtTygrLegAcmYyrPYVvJyxsiqzdjUthnZI5u6ZddyoE7EgvvkVBE5S3IxJnGiIL03jChAlghFRTqj10yRjKUM5mhM5pAZ4NOY/IibTbIoVxxV+JzJolUw1iCIZiz6rItKhSDgC7gZUcmIYAofEUU53wjxDpkD5JVtEQS8dOwaPbmld1L3ie+0lsRXSQnjQhqbqV04Ts2cTeuSgUngbrXlfNnWPVWQVe9UqXqscSrJAPPQ6nIY4hLHjqkMsG2Xdle2HEAdmrkmOGU0muFm3Gxj29oATSiFyyHDr6EB9PNpbUP4gsVTNevz3V3wCMayNcnwfGFfzoFT0fzAP3YJ7hSy1zOq+NO6KzCOlUAzQqQvHfwF660IxXg4ZOv5pwGf3RQuIxrfFbkikc46Jt195ZGX3gvP9bpfvUMPM+BhWj27QrvFPGBAS105vR2rhYs2Fs7WA1u5Z1qktltto7Tmcev/TA6RJqwyM2XcSz2qbs1Fs86hZfDho/8Qd31lmiKT+3vNqO97y8UmaI7Upr3cr0/xmwnkAnnfeLaC8xvtQ0maWbNPy3IRPsY/2K0CcN2ALHrwFJt6NvO2iXDsa66j17CLbzFh0Jfo1KYgiqcS+BIETzxU5Pqh8i3sdeTqSfUEFOiWllW7aovVol3RmnWt7WEclY0buuUsMCdK5R5Y3SxNBb3f9QhbhdUebwrDMtOTX4o2t1tTqT71K+U1cptiZeRKrQoNzyK7JLbdBkevq+c5IssOwD208YA2W6rszkcf0A302gVXkIvnonYJKpALFTZfF5rOeg+513LOt9XCmOyWN535XrlFLN2evlCPxrtRhaDft/eD9Rd6eOUP1t/57b8P/gO8/np3XhAAAA==</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="DM_Supplier"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>
