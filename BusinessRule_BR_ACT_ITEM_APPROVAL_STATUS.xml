@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessLibraries>
+        <BusinessRule ID="BR_ACT_ITEM_APPROVAL_STATUS" Type="Library">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessLibrary"></SetupGroupLink>
+            <Name>BR_ACT_ITEM_APPROVAL_STATUS</Name>
+            <Description>This business rule will update the TradeItemStatus and SupplierApprovalStatus of McDonald Item</Description>
+            <Configuration>H4sIAAAAAAAAAKVUUWvbMBB+jn7FzQ8jGZ29vZUmTtmWFTrWEup0r+Fin22tsuRJctpQ+t8n2U4aBwaDGozh7vx9350+XS2agss11rXgZNY8X6dK5ryYGRew87pLd7F4dvlUCdiSNlzJOPgcfgqAZKoyLos4uF9dfTwPLuds9rUxXJIxd42gOQM4BJYtHBznu9D1Ig5+4BaTVPPa7vM/+Uaj3gUew6EsUWNF1tF3geMQDBECWO1qioPfLhIKlEWYWO1UBvPow1se5iXDreO8gMSibQzc1xlaNw/IlQZbElxbqkK2oC0JVVPmChtNpoQbzLJGYARJybcIC9yhYElTVa7FC1iV3MCmbxy0p3nkQkDj4akFXmnMyKP3zCgzh92enP5S11ptUfQplcNNulASRdbqAfZYknScFmFFWEFXT6YFXmL6EH1DQ2A6uAw2uzazhw/Z2+YWMZY3Mm3nVKvajcFSJ3UsVUZnIFRRkD4D0wYnz2zEfCIsyP5C0dD4/Z9G2enJCLrgJDRkE17VgrraHmTKnGrGtqhBU07aWdU1HMMeeKlV1qT27pAbT0I0CVn35c5TaJUeexRvtceSuyMZvwKFJZpbenLFk7bgufckwIDQ8R39I9sfpodSnh9Bek0HMd6/4wnEMXRN+qZX6gpT7u7l7vuTJelvYT+BA+Crir0S7E46653x2v5/zLUYztUJH41GXrNsnDXfxSfgkwH5UIp/Bp0e0+9t5hXcPNihmf9xyCfU01OyAfuLE+7eF2fEl9EsOqyNfrNEw9Uyi4YLy620aLjT+vX4F5G8s1k+BQAA</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false"></ValidObjectTypes>
+        </BusinessRule>
+    </BusinessLibraries>
+</STEP-ProductInformation>

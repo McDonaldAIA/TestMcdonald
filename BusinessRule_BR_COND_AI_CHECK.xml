@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessLibraries>
+        <BusinessRule ID="BR_COND_AI_CHECK" Type="Library">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessLibrary"></SetupGroupLink>
+            <Name>BR_COND_AI_CHECK</Name>
+            <Configuration>H4sIAAAAAAAAAKVVTXPaMBA941+x9aFjksZOb52AyQBOJ06TlMFwZlR7bdQIyZVkkkwn/71yDDYu0I+JLmh2tW/fe5KXnBUZ5QuS54yiWtB0EQue0qyvTEAP8ipdxfz+5dOKwRqlooL79kf33AbksUgoz3x7Pvt89sm+HFj9UaEoR6WmBcOBBVAHJq9wsJuvQmHg2zdkTaJY0lxv87f0myTy2S4xDMqESLJCbdpXgd0QtBFsmD3n6NvfTcRlhGdupKVhaQ+8k7csq6QM96bnBYymi/HX+2AxDBfj66vxFyvANTKRY3IB0Xx6FV3D3TAI5rdDL1rSNYGAPBNmRcVqZURdzJZU1U6ALHEfKTP2EkYTohFoCnqJMAxBIcNYG8/BlCSCIwgJXGjXst6k5sSz0oJXyNu2wzDadnO4SPADMJFlKLvWz43pYM5KiEXBS999OO+1EhJTlOZVoDK5EsHNUE+kSIpYT+uc03WJilCbX2pgiBbS6TZAVU+X8lQ4738UQvdGmAqJUCPAiIn4wT07q9I7tY9Larx0Gh7ukqh7fDK9uvWhRsxB7ob6Tj1/Le7tlZgbcpo+pc6aXvn8nC74PlT8JiR+GBOFMzEMN4y7e3j7pLZr4/bp6T6J45Yd8wpOG3EHVO2q44V5ke92zChFzojMsOXmvwvZrtLtuzgQnLAk1LjSYiRp/BAGcKRZuQ+DQ7fw+5KoC8lBywKPH345mkGm8A3CNt0rp1cqqzb/Q6SJNLvyLuovznxyf3rIf2PQoJZSDUCn02l51nmxrJe+V8/Wzfj12vO377Wnupn7Xnvwb/5DfgGnXdaTYwYAAA==</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false"></ValidObjectTypes>
+        </BusinessRule>
+    </BusinessLibraries>
+</STEP-ProductInformation>
