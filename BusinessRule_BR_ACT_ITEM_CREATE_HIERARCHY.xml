@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
     <BusinessRules>
-        <BusinessRule ID="BR_ACT_ITEM_CREATE_HIERARCHY" Scope="Global" Type="Action" RunPrivileged="true" Selected="true" Referenced="true">
+        <BusinessRule ID="BR_ACT_ITEM_CREATE_HIERARCHY" Scope="Global" Type="Action" RunPrivileged="true">
             <SetupGroupLink SetupGroupID="McDonaldItemBusinessAction"></SetupGroupLink>
             <Name>BR_ACT_ITEM_CREATE_HIERARCHY</Name>
             <Dependency LibraryID="BR_LIB_ITEM_GTIN_GENERATOR" LibraryAlias="GTINGEN"></Dependency>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessLibraries>
+        <BusinessRule ID="BR_ACT_LOOKUP_MRKT_CTGY_LIB" Type="Library">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessLibrary"></SetupGroupLink>
+            <Name>BR_ACT_LOOKUP_MRKT_CTGY_LIB</Name>
+            <Configuration>H4sIAAAAAAAAANVYbW/iOBD+TH6Fy4cuiALtSfciUbpqgV6zW1pUwkqn2xMywUm9DXHWcdrlrvz3GztxXnhpKYv2dHxoncnM4/Ez4/HEgRe51B/jIPAoCcfUGdvMd6h7GoJAnAXx61jWPn3/beahR8JDyvx2+aRxXEbEt9mU+m67PLIu67+V358ZpxdRSH0ShneRR84MhFLBQMGh/PtYZHbb5Q/4EQ9tTgOh31/TCcd8XpYYgDLAHM+IgOljQV6EighlZM0D0i5/AUnDw77bGAoOXpbPnMi3BbiPHrFHp1gQU5BZxWdTcoRCQYIj5DHXJVz+Zw9RUDX+MUqxqEF9h1UOv0ZMtOp1swiBOjBw0bV5Ua/XY51qyyhRBynwhkvE7eQLsYV0rFKVz2a3UkXtNoq1Ozgk8Qg9P6PtbAbYfkjmMkrgZ+kRAxPgTR/72CXTizlqp1CfsBeRxP2CToIgdYZ0Fngk1pTuK8ABZ9PIFmqBjG+CXNJ6DZSCBxbrY/5AxB1xAFSyL9XhiXBIKyJXfcVmycoL4os5EJEtRQP1vgniy+RMA2CUFm8Jwq0/YZjLfEbDSO0JvhO/Q7M/lgDjBHC8Ndl740W7INcwtth4KTCtNzKTh3trmhZcuSFPO1Oa6Iz/3zReYptCcZ3vQqO2/S4aU5D/iM90/k18rpkRqMmtKEUPK0t6EkGaE84Z78MhAgtEmsFzj3CBDg4O0JB4wDSZotgQHeJZ0EJpiaMhTCWQzWYy8FP0RMU9CjMbRRsCkh8lTY0YPZk5PjeWyqEJR0fqRkF9wphHfMfDLggcxlFFrR6Uj1vw79CDFFnlohHSv2V4EK3VkgzIgMDWwV5IZPD2UPt2y9D9ZPduRWZvBUoRu+EQXBMUAK5QhW9hLh/U+AbPkp2kkGbKwuy+BQL6HOKLzHUFRp3Kild6RdfMpaGgdphQofI7TvIfmw77DQmqVpvN8+kUNp/cKv0uqNV/+vX4Z8mHipVkZakOasir809mFlmtLw3SkBxoXXN4t8rcqpo12k7t6jw/sZ65uGUFj9SOhd/CyP5uXk/f7nhkBnnxyqJSg9FwFzdKWzlj9Ydr3NiArMAW0JypEYFShX5go5xt6l22ot5+yn3p9VbZpqZ86WSI38kJrtXIwhN9CCc7+vb242ggUfsfrY71+x+x+ChdROJVjs/t82Zf7vU7netev3djfa+PhXTal3cA+rJfRqnwqbdcXWtIf/ydpB95INzsWWog94HjZSbZvqjqQ7qyGQbqiB95XrVQxV9Uz/cZ1ZhCnfMb7U5SIte8bKj7gITNz5+fs3attPbr+Jdt+DlpAAmuuNfHGaoc5IjJSnraFdks8uXHvuqN9IPqkF6dI9VX/VJWofRxMpmjD/gJ02ksXl3Tmg4gflFbeqGD/oJPfya+/JWBbKEM3R78dH2HjFnSbpCvEbR9puszTmSV3JwjOdDq28+kxXLUczbZHqlbVz3Uu+lukwmvZYC45+xJZzXEe8Kbh+7KMEDYo67ffmcTubZ3Wu4wX/byHpOZc9frItk8t2sn+v2FHozUQHtb+ISo5WZvjrRBMzVtXsIk6UOw7J3u+GPyFupeQkXTWJw201us5KKrWbzpOm0W78/OjEwSX7Elt3X/AnYf91TNEwAA</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false"></ValidObjectTypes>
+        </BusinessRule>
+    </BusinessLibraries>
+</STEP-ProductInformation>

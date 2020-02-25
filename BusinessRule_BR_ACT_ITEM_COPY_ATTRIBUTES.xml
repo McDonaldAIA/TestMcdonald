@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessLibraries>
+        <BusinessRule ID="BR_ACT_ITEM_COPY_ATTRIBUTES" Type="Library">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessLibrary"></SetupGroupLink>
+            <Name>BR_ACT_ITEM_COPY_ATTRIBUTES</Name>
+            <Description>Copy Attributes From Node to Destination Object</Description>
+            <Configuration>H4sIAAAAAAAAAO1YbXPaOBD+jH+FyoeMSYqddi7XtGA6JExa3zQpA9zdx4ywBSiVJVeSabib/Pdb+QVsF9KEXDs3c2UcB1baR8+utLuSYpbMKb/GccwoUdd0dh0IPqPzrgKB7sVZcybzum9vI4aWRCoquNd84Rw3EeGBCCmfe83fJxft0+bbntU9SxTlRKlRwkjPQmgtGKZwqNyeifyB1/wNL/E4kDTWRfsHOpVYrpoGA1CGWOKIaBg+E5RFqIrQRJNVTLzmDUgchvncGWsJLJs99/ApH8tQRlcw5ht0LuIV6mvAnSaaKHQhRYSuREiQFmhAlKYca3AU+ji9IYG2BmRJmIhJ+AaNE0nUAl3iMEwYtp7GybWsWcKDdKgAOG0o2RzYPEczISOsNQknJIozMuo5UprErb+thtVYYolEKjZOQx4yas6c6I9rod0yv/2B3epYDTqzN9097+BzInTnMhgIjlnoaxJlEgOeYuOC0DspkliZAcgXlE5Noilz+lLi1QeqdIreyJ6akgOusr8eaRyTgM5okDq6X1HJSXQejOWHhOs1WB3DdXejDHHwCcMqnm9ncC6iCKBJiM5WsDCm+IZq5F+dv/4VPq9O7yVoiF0wvAP5m6rvMQ8ZEKv46dGeeaqXh5LM6O1Oxftce45ZACECzttj3HeEE4mZz7MIeKjp/TiWYonZSMDyLE2qeijnchBW2KKRP7l8/fKXk5OT02yZAzNkmyAJRMJNHvPQcWf944DpTj18HEX/gnhcdzo6agGOibVtwQaxBZB1CIhlO1dPrYGQRjZPGEPPvDQxmB5VE96LKM8CVfnZCrLC14O2DKmMVZ1WjP6tMSo9VZY9suEoWIa1qNkeO4W86PtlQSGf24XYWWB1RW4hEaX0c/5VAwBy3Z2nfUupseit15nWH4zIrGTxUIowCfTG1FyQ2rgtUxewWq6yLzkpk4bXpIosPJE4JGnIaqyTYsHmCoWi0awRNET+wCwhG8iU3JhGMSNZS+tZPkgfas2SZN/RAY7iTvqqG/0oTJ/j74A6IkaPhFU/bBzReAi4qoIXxfGbJIqJazTu8i93hClSn4wfQiFnkP+DRB4skE1axYIqt6Zv84I/eAzlPQu5e/gfrON7V/H/fZnerTiA+lwqstsRoGKGIeyBpps90PEr9yU8xy/u3wN9rzJ+6LputSDvU9N/FvGfRXz/Iv4jsv9jsz5sbicCxSJON97IpJY/x745RiJjUn6eVa57toDUz3GqwcR8TqRDIUjzkGm32zXr2u2s5agmT4mWPJ4fQ7f4ZseJtLSjqZ1JJ1hCt0ssPxG9mY/SAXX3DGzSM1ifa9w/F1s1ts5KWlvvGl13fYGR33G41UuOrlu9OulZG0l2u5Jf1PwDJz08JcgRAAA=</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false"></ValidObjectTypes>
+        </BusinessRule>
+    </BusinessLibraries>
+</STEP-ProductInformation>

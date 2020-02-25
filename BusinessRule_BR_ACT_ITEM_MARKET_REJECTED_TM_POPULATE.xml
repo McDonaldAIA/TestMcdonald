@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessLibraries>
+        <BusinessRule ID="BR_ACT_ITEM_MARKET_REJECTED_TM_POPULATE" Type="Library">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessLibrary"></SetupGroupLink>
+            <Name>BR_ACT_ITEM_MARKET_REJECTED_TM_POPULATE</Name>
+            <Description>This Library is used to populate the TargetMarke values for Rejected markets.</Description>
+            <Configuration>H4sIAAAAAAAAAO1Y3W/bNhB/tv4K1g+BhDRyuqdhjlI4sYO5qxvDVreHYRAYmbbp6GsUlTZr8r/vSIoSpdhx6mwPAxbADny6+93vPngklUXFiiYBzrKIkjygyyBMkyVdneUg4OeZeqxk3tn7r3GE7gjLaZp43XfuaReRJEwXNFl53c/+1cmP3ffn1tlFkdOE5PmsiMi5hVAlmEo4ZD5XovHQ637Ad3geMppx/fwjvWGY3XcFBqBMMcMx4eBeCUwRaiJ0kX+fEa+7AYkb4WTlzjkDlt3zXs9fE3RBovQLukwXBNEcFTlZIJ6iLM2KCHOCOKj4mK0In2B2SzhapkwKGdmQkIN2LOW5a/V6FzP0CUj8hC5mweDSD8b+aBJMBrNfRn4wG30YXfqjYeBPgun19PPHgT+yLGtZJCGHHJZ4pqup4gAPbU7i7Ppm8zbnJHsbpasVYY71zercYSYos0ugukrZPfJQqeoCzK84Koh99GeR8v6UpYsi5FpRCR2hNadxFhGl6/QV5hhQ/FTR0CYzsmzCg4AwKDrJbcGrIRI5/zmNAfGJ+OJ+PCxJbXNTMnNcng4Yw/eSEyTdFryod9qnR9F2S/DiRiRZ8XWfHh87VgcSJKOBComyAPsdZr/TPwRNlXxFWRhI1xIh55gX+V4AM+HzQi4kJiwmt3yQZSy9w9FcIj2T/o4qr0uTZWqXzI+V/omicaJ+Hatf0oYubfXL89TDWdmdpSORCRnIEoeqjq+q2BUOKcwEXat+Ex3aY2ejKA2wECa6qhuo6kZUtbJ3c/qXSMdG1rEjK6lrycP1VVokC/Bx2q/kYDoegqiGEKXcOO26QiROw0oGssewNqAQFqvCUWYSoRWn4+J8Ln2CBcMcInX6HfUnwb6saUSQ3cRz1zj/RL6CmYy6DPupY/DbMkykleIJ3YDsFvSTmtoO8jxUtup4EuiSBn4atJYiOsJx1pdfRvo971SR1CwlzbAeRE/8N1YHuNRuAtHiz62IuvZyAr8AWi3QFwPrIorEtGraRq7zBLrfgw3Zb86Al8ShLYL9Y6PqrE6n1zNnSDk7TnRpTvT80AI9XcRf+cjcU4zHO2MxTHfqVCyb9FRRKyflxPuhwisF7Rhh4jV2Ps+rWs9oV9veSUdPSiWtJiV6eNhvA5vpjdyYayO03+o6uUkxEyckvcc1V5aM0/PKLi8XV+ebGXV7c2hmrpqMgxWmSc7Rb5Sv6xmn/JTHGLNe46GcTdqHscbf6aw/WsY/9Q0VMKfBuycjy5/sGKtml5sHnj3tDQ79ieclRRQ5euaY+TB2HDHldWKEWHDBiwUSto3AS6WHZrNpaWsX1ck4JCbwrlQOd+tP6hMhbJ36gFEdDg9HlsM1XAAIPIWiCfbhQuz1GrxSFVXXmm9ULXTf7OJX6R/O8JFEOZzPl/Ybf+LCFYSL/j4gla0d63u7J+X/d9B/tYPqySW+4PMIt69Odf3al5o7kfryTrFldx3vRNAHYd00Zjrk1QL0/oEjuXZnRG2gP3ckL1WEiVWfyWM4k8fiTF4j6EN5rA7l1Z1CznlDTbR0fPigN8d8ffZ/6VJdJttmvaqeaoWDmFaLz0DaPpSUwuuYt+bMv8N+2yrYsmyNa3Qo7lyCmO6ujMevat0pDm/hNh0O0wRH0m2rfZWD57pXaexq3sp+W++qeGqVOp/mvU/kiRFesEQkoK8yBp+zXvXGqXwp1Wu+lTrrNd91nVu1RL0OK9+s/Q2/YGineRMAAA==</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false"></ValidObjectTypes>
+        </BusinessRule>
+    </BusinessLibraries>
+</STEP-ProductInformation>

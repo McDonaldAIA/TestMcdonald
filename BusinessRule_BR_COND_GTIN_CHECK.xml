@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessLibraries>
+        <BusinessRule ID="BR_COND_GTIN_CHECK" Type="Library">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessLibrary"></SetupGroupLink>
+            <Name>BR_COND_GTIN_CHECK</Name>
+            <Configuration>H4sIAAAAAAAAAK1X32/bOAx+919B+KFI1tXu3g5t0qFNsF1v2RAsuXsZDoVqy44yW/JJcrZg6P9+lO04/tHUTjqiSBRKIj9S5FcpidKQ8QeSJBGj6oEFD57gAQtHChX6Jsmnc9149P5nHMGGSsUEH9vvnEsbKPeEz3g4tv9efrj4w35/Y43uUsU4VeprGtEbC6BUzDNzUJ3PVffTsf0X2ZCFJ1mid/Mz9iiJ3NrGBlqZE0liqtF9rqiqoG7BhuU2oWN7jRonIjx0FloiSvvGffMasQxk+II+rz4u77/AZ8J9ooXcwmRFve/WlG5oJBLqX8HdCn1zYi3SOMYgrpYrpgD/UkV90AL+IRHDvRQyQz9WzFsBbqGYUYwH1zxuYUo0gSUlMfipgQ+L9DFmyqQf0DOQSAmcwqPyjCXPYADiSaEUzIn33fWIou6cRBHVjvWqyN+4lutuiIRYhfNPMAZOfwCVcv5pMLy2gpR72qDaFFGZoAZc+PQtKE2TtxCJMKRyaP0qjg7AGPuosRzQFi50QqoxJykdnP2XCn1tLOSjoZlasDiJaL4AHTaNiOArDQ6oRSCrczkSh/FAVFyZo8l/wXm2teKEBTDIkSLUNIqG5cw+mp1IqlPJC1NZrvLh3tpTOaKRoi0DbXiMK+bTbHWRkOsXAJjQMei7rSmASm5Rh2XFPerjlBR+6mk1GDpa3EpJttWcHkaCeVRlkkonTkR5qFfPWDCJay6DsxC3Xw5bi9uhdKYE8bxrpaQpgZAwMFlhmI3La/w6ixBBExdOnJ+3UXWj28kEe61MMroqHXxj/2YVLFLpYfGa8f30uYR3x2181Cq15rSHSZMHUxGZoXHWmwZPURB/irgAWCjutoj0WB+HYV9cXJjTL9HvkPQEnmd0VhS12XhaYTelJLbJ7Z7YJrc9trpuvs1hPu6sJarbbUlQHcVyPCsekh2RFV6bbHZIumt/J032m9w22e+QPHWuMPxXYZRZF5+cHkXJGOucMdZVxpiVfLF+iS9O976T7D8XfmzM6d5PyyKZfVufyCdNaTcqekBPVYJpoDjBy/7aMKtcG2YnAM67DU8g67YGsuOB1S8IL+b397VgU2otWQDp25dNOb7GdtK6tcz69m1Tuvu4Kc/egrrk1aFqmfag6Kb0j657ZT/G60Frx7Jzv9APw2vPtDXPQj98aC8ie9pHiMMna+SWz77iZejWn4Yjt/7gxCepW3+TFs/b/wFnhcNm/g4AAA==</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false"></ValidObjectTypes>
+        </BusinessRule>
+    </BusinessLibraries>
+</STEP-ProductInformation>
