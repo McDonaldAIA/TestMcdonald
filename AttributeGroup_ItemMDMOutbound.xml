@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="ItemMDMOutbound" ShowInWorkbench="false" ManuallySorted="false" Selected="true" Referenced="true" ParentID="McDonaldItemAttributeGroup">
+            <Name>Item Outbound Attributes</Name>
+            <MetaData>
+                <Value AttributeID="Purpose">The attribute listed in this attribute groups are meant for publishing the data to downstream channels</Value>
+            </MetaData>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

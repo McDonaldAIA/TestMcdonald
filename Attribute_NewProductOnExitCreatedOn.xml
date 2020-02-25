@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="NewProductOnExitCreatedOn" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>NewProductOnExitCreatedOn</Name>
+            <Validation BaseType="isodatetime" MinValue="" MaxValue="" MaxLength="" InputMask="9999-99-99 99:99:99"></Validation>
+            <AttributeGroupLink AttributeGroupID="AuditTrackerItemAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pallet"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

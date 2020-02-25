@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeGroupList>
+        <AttributeGroup ID="ItemDQAttributeGroup" ShowInWorkbench="false" ManuallySorted="false" Selected="true" Referenced="true" ParentID="McDonaldItemAttributeGroup">
+            <Name>ItemDQAttributeGroup</Name>
+        </AttributeGroup>
+    </AttributeGroupList>
+</STEP-ProductInformation>

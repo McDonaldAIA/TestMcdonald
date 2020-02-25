@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="OpenedTradeItemLifespan" MultiValued="false" DefaultUnitID="unece.unit.DAY" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Opened Trade Item Lifespan</Name>
+            <Validation BaseType="integer" MinValue="0" MaxValue="999" MaxLength="" InputMask="999">
+                <UnitLink UnitID="unece.unit.DAY"></UnitLink>
+            </Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">Number of days the trade item that had been opened can remain on the shelf and must then be removed.</Value>
+                <Value AttributeID="Purpose">Food Shelf Life/Supplier Shelf Life. The number of days the trade item that had been opened can remain on the shelf and must then be removed.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemHandlingSpecification"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_SIMAttributes"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="DevSU"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+            <UserTypeLink UserTypeID="RecipeComponent"></UserTypeLink>
+            <UserTypeLink UserTypeID="ShippingPackage"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

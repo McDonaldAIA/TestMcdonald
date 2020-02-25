@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="CalculatedMinTemp" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>CalculatedMinTemp</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask="#####.##">
+                <UnitLink UnitID="unece.unit.CEL"></UnitLink>
+                <UnitLink UnitID="unece.unit.FAH"></UnitLink>
+            </Validation>
+            <ValueTemplate>&lt;derive expr="{
+    value1:=IF(
+        PRODUNIT('MinimumTemperature')=&amp;quot;°F&amp;quot;,
+        value('MinimumTemperature', 'unece.unit.CEL'),
+        value('MinimumTemperature', 'unece.unit.FAH')
+    ),
+    value2:=if(
+                   round(value1, 2)=&amp;quot;NaN&amp;quot;,&amp;quot; &amp;quot;,round(value1, 2)
+	   )
+}
+concatenate(
+    value2,
+     IF(
+        PRODUNIT('MinimumTemperature')=&amp;quot;°F&amp;quot;,
+        &amp;quot; °C&amp;quot;,
+        &amp;quot;&amp;quot;
+    ),
+    IF(
+        PRODUNIT('MinimumTemperature')=&amp;quot;°C&amp;quot;,
+        &amp;quot; °F&amp;quot;,
+        &amp;quot;&amp;quot;
+    )
+)"/&gt;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="Purpose">It is used to store the converted MinTemp Value.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CalculatedAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ItemMDMOutbound"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

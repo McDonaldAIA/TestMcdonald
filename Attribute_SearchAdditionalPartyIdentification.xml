@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="SearchAdditionalPartyIdentification" MultiValued="true" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="true" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Search AdditionalParty Identification</Name>
+            <Validation BaseType="number" MinValue="" MaxValue="" MaxLength="" InputMask=""></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">Seperate multiple WSI using semi-colon (;)</Value>
+                <Value AttributeID="Purpose">RawItem Search WSI- PS: Do not change the Externally Maintained Value.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="PackagingFacilityMetaData"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="GoldenSupplierRecord"></UserTypeLink>
+            <UserTypeLink UserTypeID="Level2"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+            <UserTypeLink UserTypeID="SIM_Supplier"></UserTypeLink>
+            <UserTypeLink UserTypeID="SIM_WF_Supplier"></UserTypeLink>
+            <UserTypeLink UserTypeID="TYP_M2M_Place_Holder"></UserTypeLink>
+            <UserTypeLink UserTypeID="TYP_SIM_DL_Facility"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

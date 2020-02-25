@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="WRINPrefixAttributes" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="true" Selected="true" Referenced="true" Mandatory="false">
+            <Name>WRIN Prefix Attributes</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="1000" InputMask=""></Validation>
+            <ValueTemplate>&lt;derive expr="concatenate(
+    value('Height'),
+    IF(PRODUNIT('Height')=&amp;quot;cm&amp;quot;,&amp;quot; cm&amp;quot;,&amp;quot;&amp;quot;),IF(PRODUNIT('Height')=&amp;quot;in&amp;quot;,&amp;quot; in&amp;quot;,&amp;quot;&amp;quot;),
+    ';',
+    value('Width'),
+    IF(PRODUNIT('Width')=&amp;quot;cm&amp;quot;,&amp;quot; cm&amp;quot;,&amp;quot;&amp;quot;),IF(PRODUNIT('Width')=&amp;quot;in&amp;quot;,&amp;quot; in&amp;quot;,&amp;quot;&amp;quot;),
+    ';',
+    value('Depth'),
+    IF(PRODUNIT('Depth')=&amp;quot;cm&amp;quot;,&amp;quot; cm&amp;quot;,&amp;quot;&amp;quot;),IF(PRODUNIT('Depth')=&amp;quot;in&amp;quot;,&amp;quot; in&amp;quot;,&amp;quot;&amp;quot;),
+    ';',
+    value('TradeItemShape'),
+    ';',
+    value('TradeItemColor'),
+    ';',
+    value('TradeItemFlavour'),
+    ';',
+    value('TradeItemPrepMethod'),
+    ';',
+    value('TradeItemLanguage'))"/&gt;</ValueTemplate>
+            <MetaData>
+                <Value AttributeID="Purpose">It is used to calculate Prefix attributes.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CalculatedAttributeGroup"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

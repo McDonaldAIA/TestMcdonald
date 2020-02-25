@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="MerlinProductSpecNumber" MultiValued="false" ProductMode="Normal" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Merlin Product Spec Number</Name>
+            <Validation BaseType="text" MinValue="" MaxValue="" MaxLength="11" InputMask="0000000-000"></Validation>
+            <MetaData>
+                <Value AttributeID="AttributeHelpText">Merlin Product Spec Number. (Example: 6452899-001)</Value>
+                <Value AttributeID="Purpose">This attribute is used to store the Merlin product spec number. The attribute is optional during Item Onboarding and Category Leads can update the attribute during approval process.</Value>
+            </MetaData>
+            <AttributeGroupLink AttributeGroupID="CopyAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="McDonaldItemSpecificationAttributeGroup"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_RecipeComponent"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_SIMAttributes"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_ShippingPackage"></AttributeGroupLink>
+            <AttributeGroupLink AttributeGroupID="ag_mm_ShippingUnit"></AttributeGroupLink>
+            <UserTypeLink UserTypeID="Case"></UserTypeLink>
+            <UserTypeLink UserTypeID="DevSU"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDTargetMarketTempObject"></UserTypeLink>
+            <UserTypeLink UserTypeID="McDonaldItem"></UserTypeLink>
+            <UserTypeLink UserTypeID="Pack"></UserTypeLink>
+            <UserTypeLink UserTypeID="RecipeComponent"></UserTypeLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>

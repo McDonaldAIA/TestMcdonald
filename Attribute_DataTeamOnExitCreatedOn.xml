@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <AttributeList>
+        <Attribute ID="DataTeamOnExitCreatedOn" MultiValued="false" ProductMode="Property" FullTextIndexed="false" ExternallyMaintained="false" Derived="false" Selected="true" Referenced="true" Mandatory="false">
+            <Name>Data Team Finished Date</Name>
+            <Validation BaseType="isodatetime" MinValue="" MaxValue="" MaxLength="" InputMask="9999-99-99 99:99:99"></Validation>
+            <AttributeGroupLink AttributeGroupID="AuditTrackerItemAttributeGroup"></AttributeGroupLink>
+        </Attribute>
+    </AttributeList>
+</STEP-ProductInformation>
