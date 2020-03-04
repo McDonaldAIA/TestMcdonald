@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_ACT_CATEGORY_TEAM_APPROVE" Scope="Global" Type="Action" RunPrivileged="true" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessAction"></SetupGroupLink>
+            <Name>BR_ACT_CATEGORY_TEAM_APPROVE</Name>
+            <OnApprove ApproveSetup="Never"></OnApprove>
+            <Configuration>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</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="Case"></ValidObjectType>
+                <ValidObjectType ID="McDonaldItem"></ValidObjectType>
+                <ValidObjectType ID="Pack"></ValidObjectType>
+                <ValidObjectType ID="Pallet"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>

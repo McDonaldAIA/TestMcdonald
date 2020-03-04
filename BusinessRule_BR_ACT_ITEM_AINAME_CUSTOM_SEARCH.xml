@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_ACT_ITEM_AINAME_CUSTOM_SEARCH" Scope="Global" Type="Action" RunPrivileged="true" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessAction"></SetupGroupLink>
+            <Name>BR_ACT_ITEM_AINAME_CUSTOM_SEARCH</Name>
+            <OnApprove ApproveSetup="TriggerAndApproveNewParts"></OnApprove>
+            <Configuration>H4sIAAAAAAAAALVWXW/aMBR9bn6FlYd+A9vbBIQqQKdlaku1sPYRueECroyd2Q4rm/bfdx2bz1K1FVseIvv4+J5zrz/knBdjJgY0zzkDPWCjQSbFiI2bGgHTyt2ww6LmxdOUkxkozaSIwo/VDyEBkckhE+Mo/N7/XPkUXrSCZrvQTIDW3woOrYCQJXBbhiPr4w5KulH4lc5omimWm8V4nBkUumdm0mZiqEMbC6PdUkWnYNCGA9YhYiM5NunPc4jCRwxb5VSMq6lRaDRsHXLT2Mjk8EchTQPTcY1VTq5fJuaaF4dj0whsAKtxTfOyT8gCIVgpo2hm0Iab0SmUAmF6D4+QGUvpeIbXijmj2nOFHIKHlwl1ONXL8YJz16q9qntNBR2DekVRG8j/leKVHL8uyEvSeyStYG292s3act4L63+plFTXuIGwAv97H1zJjHL2iz5w8Ip9mOacGmgXYsih9kbPq93/suHa6T5fYI8buUHNOom1hukDn5PEwLTESArGMZJunQRdmAGXOQzrJJ2wGSVdOqc8SIvplKp5nfREBoSStMg5XhyqDMM0ifNcyRkMiZk4KSJHW2LIymVe2AohTZKjOLHETqGNnKZAVTY5qgZpBoIqJnU96E9wyuJKIKXFyyc8TKDJ/QQEoWJufeS7fFSDvUp2WgsOghlVxJ5MXC88yCQqO9UxGAccnzQCt6urTIzksdsgldWMikPOVgjOsEHjxAdz6GZIRyhLGGHDDtrOaijpLgeSroU95A9j727gdS2+adHFPfNO46SyxsRApQCXMwxm7wercMW06Y3uKC9Af5HWxjbanqOLIysbJ0e7S4IfRsW/l8POQk2BLrh5v+Aq2Thx7We88l+SfXo7nDn5hS/XQyYbHbt2FNlb6ST4HRxYt5mCcvdGtkpV13sm6at8bmeee+mD1aqu7/flQrqJzsZz2lqCKcM7Bhzdxt2R0w6ZNoykgtVqbxNspN2xhkNM9wZ+klLSHlus+SKQL8e2j31SOtsriT+71tgxN+ctZDyKUxdn+2229aZtRzzZcd2vAeWjpVnbfBLho6m2+WryD7C/gSD6NKAJAAA=</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="McDonaldItem"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>

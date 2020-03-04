@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <BusinessRules>
+        <BusinessRule ID="BR_ACT_ITEM_ADD_HIERARCHYID_WKFLOW" Scope="Global" Type="Action" RunPrivileged="true" Selected="true" Referenced="true">
+            <SetupGroupLink SetupGroupID="McDonaldItemBusinessAction"></SetupGroupLink>
+            <Name>BR_ACT_ITEM_ADD_HIERARCHYID_WKFLOW</Name>
+            <Description>The BR is used to populate ItemHierarchyID attribute which is used by downstream system to derive all the parents if the node</Description>
+            <OnApprove ApproveSetup="TriggerAndApproveNewParts"></OnApprove>
+            <Configuration>H4sIAAAAAAAAAL1W32/bNhB+Fv+Kmx9Su02lZE8FbCdz4gZzm2xBna6PAU2dZXYUqZFUUm/Y/74jKTt2iiAdsFUwbOq74333i0c3qq2kvuVNoyS6W7m8FUYvZTVyBPiTJokTNh6dfqkV3KF10uhx7zg/6gFqYUqpq3Hv483F6ze90xM2Omud1Ojch1bhCQPYAtfRHOzKEzSbjnvv+B2fCysbv5FPhCeiT9KvzqQuXS/YImvX3PIaPbmRgF0IgqWkDTfrBse9z2Q2V1xX+dxbcrR3cqD8cC+Sgz9a44cUTlo8xJTeY2BpeXpQ+SELBgLHFW/iO8AGAcqUt1x4ciPtOG+tRe1/XXxG4YPKeafRcU2U5K7T1abEDt4GdK6428pbpdKqeJb3imteoX2G0Xls/ivGS1M9T6ii0r+hDITFbrZHxXbfE/V/a62xV9RAlIH/uw8ujeBK/skXCjvGG6wbxT2etbpUWHyjzw/d/7TDxcvv97AP/H7msYY5VjU1MMAFr6VaQ6xVdmal+B2uxNRorsqJc1gv1DpsyDbgtTVlK/xWKVrrX0haD9jEU0yL1iME+GeJlluxWs+m7JOVHmlGrCHL3vF7Lkt4v+Kava25VDArswygE+RB8JMwlaYCaJ8LU7MpZT6LOkfHcIEL+PHo+A27bm1jHAacnhsDjWnaUCTwKwT+lDNgljBv42y0UQb3NIyAKwUeV6F/Q2ZmpWO/UROUkE55rJ/b5gE2iYiZk0speBhr7DsW82XB7rgNjs70Nryuq9M3W7Y6TlvgZTlRilT7v9A4GrDsL5ZlcgnxNa/Qp6j7g7CeTfuDHzYTp4u3a5wEDoqCrAVmWKAy95Rv6SiLhC0QLApjSywPQXAdAEEFrbAEuiQEdwjGU7LpiFD7x0o1KeOX0nnyKrqWZfthwfhRnPAKnnL9VXLyMP0Mo7X9+Hd3DaLC34w+jD2ohak9GGbsGTdy1y5cPMj9o8NHIoW68qvXx8SgO1JqqBb7Lx415ItB7tDPJU0YTBr7lshAmrC51EvztfCrObQDxNt0VOzf1XSbF/vXeffP4B/cQpd0OQgAAA==</Configuration>
+            <ValidObjectTypes AllObjectTypesValid="false">
+                <ValidObjectType ID="McDonaldItem"></ValidObjectType>
+            </ValidObjectTypes>
+        </BusinessRule>
+    </BusinessRules>
+</STEP-ProductInformation>
